@@ -1,0 +1,4 @@
+{"user_input": "hi", "tokens": ["hi"], "intent": "greeting", "response": "Hello! How can I assist you today?", "feedback": "yes"}
+{"user_input": "how are you?", "tokens": ["how", "are", "you"], "intent": "question", "response": "Can you please clarify your question?", "feedback": "yes"}
+{"user_input": "sad", "tokens": ["sad"], "intent": "unknown", "response": "I'm sorry, I didn't understand that.", "feedback": "yes"}
+{"user_input": "hi", "tokens": ["hi"], "intent": "greeting", "response": "Hello! How can I assist you today?", "feedback": "yes"}
