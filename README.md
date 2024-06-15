@@ -21,7 +21,7 @@ Setup
     .data.txt: A file containing sentences to be processed (one sentence per line).
     .interaction_logs.json: A file to log user interactions and feedback.
     
-Functions and Flow
+Functions and Flow:
 1. Text Preprocessing
 preprocess_text(text): Lowercases the text, removes non-alphanumeric characters, and tokenizes it.
 2. Intent Recognition
@@ -37,7 +37,7 @@ update_model_from_logs(): Updates the model by analyzing feedback and identifyin
 The chatbot runs in a loop, processing user input, recognizing intents, generating responses, logging interactions, and updating the model based on feedback.
 
 
-Future Improvements
+Future Improvements:
 Enhance intent recognition with machine learning models.
 Expand predefined intents and responses.
 Implement more sophisticated natural language processing techniques.
