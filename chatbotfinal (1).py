@@ -32,7 +32,7 @@ def preprocess_text(text):
     return tokens
 
 # Read data from file
-with open('/content/drive/MyDrive/data.txt', 'r') as file:
+with open('/content/drive/MyDrive/human_chat.txt', 'r') as file:
     # Read the contents of the file
     contents = file.read()
 
